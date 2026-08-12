@@ -1,5 +1,3 @@
-div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6DB33F&center=true&vCenter=true&width=520&lines=Ol%C3%A1%2C+eu+sou+o+Pietro;Desenvolvedor+Back-End+em+forma%C3%A7%C3%A3o;Java+%7C+Spring+Boot+%7C+Spring+AI" alt="Typing SVG" />
 
 ### Estudante de Engenharia de Software @ FIAP · São Paulo, Brasil
