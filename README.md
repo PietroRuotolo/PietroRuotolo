@@ -61,8 +61,6 @@ Solução mobile desenvolvida em parceria com a empresa JOVI, do levantamento de
 Plataforma de monitoramento ambiental para rastrear rotas atmosféricas de microplásticos, com simulação em Python e *edge computing* (Arduino).
 `Python` `JavaScript` `Arduino` `Edge Computing`
 
-> _Substitua os links acima pelos repositórios reais e adicione ou remova projetos conforme seu portfólio evolui._
-
 ---
 
 ## Onde me encontrar
