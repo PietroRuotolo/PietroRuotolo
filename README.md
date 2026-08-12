@@ -17,8 +17,6 @@ Desenvolvedor **back-end em formação**, construindo um caminho sólido em **Ja
 - Aprofundando **Docker**, **cloud** e **CI/CD**
 - Sempre aprendendo algo novo — atualmente: microsserviços e Spring Security
 - Português (nativo) e Inglês (avançado)
-- Como me encontrar: **pietroschimidt03082007@gmail.com**
-
 ---
 
 ## Tecnologias & Ferramentas
