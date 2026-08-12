@@ -65,20 +65,6 @@ Plataforma de monitoramento ambiental para rastrear rotas atmosféricas de micro
 
 ---
 
-## Estatísticas do GitHub
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=PietroRuotolo&show_icons=true&theme=vue&hide_border=true&count_private=true)
-
-![Streak](https://streak-stats.demolab.com?user=PietroRuotolo&theme=vue&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PietroRuotolo&layout=compact&theme=vue&hide_border=true&langs_count=8)
-
-</div>
-
----
-
 ## Onde me encontrar
 
 <div align="center">
