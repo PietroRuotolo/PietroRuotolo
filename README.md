@@ -72,7 +72,3 @@ Plataforma de monitoramento ambiental para rastrear rotas atmosféricas de micro
 </div>
 
 ---
-
-<div align="center">
-<sub>Sempre aberto a oportunidades de estágio em desenvolvimento back-end!</sub>
-</div>
